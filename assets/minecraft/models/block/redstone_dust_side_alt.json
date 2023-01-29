@@ -1,0 +1,22 @@
+{
+	"credit": "RektInNation",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "block/redstone_dust_line0",
+		"particle": "block/redstone_dust_line0"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 8],
+			"to": [10, 1, 16],
+			"faces": {
+				"north": {"uv": [6, 8, 10, 9], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [9, 8, 10, 16], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [6, 15, 10, 16], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [6, 8, 7, 16], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [6, 8, 10, 16], "rotation": 180, "texture": "#0", "tintindex": 0},
+				"down": {"uv": [6, 8, 10, 16], "rotation": 180, "texture": "#0", "tintindex": 0}
+			}
+		}
+	]
+}
